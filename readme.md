@@ -11,7 +11,7 @@ composer install
 # Run Migrations
 php artisan migrate
 
-# Import Articles
+# Import Data
 php artisan db:seed
 
 # Add virtual host if using Apache
@@ -36,7 +36,7 @@ if you are using sub directory than you need to set path for AppURL and StorageU
 ``` bash
 GET api/usersdetails
 ```
-### Get User article
+### Get User details
 ``` bash
 GET api/usersdetails/{id}
 ```
