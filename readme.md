@@ -32,26 +32,26 @@ if you are using sub directory than you need to set path for AppURL and StorageU
 
 ## Endpoints
 
-### List all articles with links and meta
+### List all User with links and meta
 ``` bash
 GET api/usersdetails
 ```
-### Get single article
+### Get User article
 ``` bash
 GET api/usersdetails/{id}
 ```
 
-### Delete article
+### Delete User
 ``` bash
 DELETE api/usersdetails/{id}
 ```
 
-### Add article
+### Add User
 ``` bash
 POST api/usersdetails
 ```
 
-### Update article
+### Update User
 ``` bash
 PUT api/usersdetails
 
