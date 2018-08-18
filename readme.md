@@ -1,5 +1,5 @@
 # Laravel/Vue.js App
-this is test
+
 > Laravel 5.5 API that uses the API resources with a Vue.js frontend
 
 ## Quick Start
